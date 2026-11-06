@@ -5,4 +5,4 @@ Resources:
   MyS3Bucket:
     Type: AWS::S3::Bucket
     Properties:
-      BucketName: my-cloudformation-demo-bucket-20261106
+      BucketName: my-cloudformation-demo-bucket-20261110
